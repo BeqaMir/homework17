@@ -55,5 +55,12 @@ function oddOrEven(number){
 }
     console.log( oddOrEven(7));
 
+// 7
+function stringUpper(upperCase){
+    return upperCase.stingLover();
+}
+let upperCase = "MY NAME IS JOHN";
+let stringLover = stringUpper(upperCase);
+console.log(stringLover);
 
 
