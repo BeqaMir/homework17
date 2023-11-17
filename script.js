@@ -63,4 +63,10 @@ let upperCase = "MY NAME IS JOHN";
 let stringLover = stringUpper(upperCase);
 console.log(stringLover);
 
+// 8
 
+const Numbers = [2, 3, 4, 5, 6, 7, 8 ]
+ function evenNumbers( Numbers){
+    return (number % 2 == 0)
+ }
+console.log(evenNumbers);
